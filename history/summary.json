@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.sv-group.ch",
     "slug": "sv-group",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1979,
-    "timeDay": 1581,
-    "timeWeek": 1997,
-    "timeMonth": 2372,
-    "timeYear": 1979,
-    "dailyMinutesDown": {
-      "2021-02-24": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1990,
+    "timeDay": 1823,
+    "timeWeek": 2163,
+    "timeMonth": 2420,
+    "timeYear": 1990,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sv-Restaurant",
@@ -25,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/www.sv-restaurant.ch",
     "slug": "sv-restaurant",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1610,
-    "timeDay": 1542,
-    "timeWeek": 1648,
-    "timeMonth": 1733,
-    "timeYear": 1610,
-    "dailyMinutesDown": {
-      "2021-02-24": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1617,
+    "timeDay": 1647,
+    "timeWeek": 1756,
+    "timeMonth": 1756,
+    "timeYear": 1617,
+    "dailyMinutesDown": {}
   }
 ]
