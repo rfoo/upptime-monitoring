@@ -4,10 +4,10 @@
     "url": "https://www.sv-group.ch",
     "icon": "https://favicons.githubusercontent.com/www.sv-group.ch",
     "slug": "sv-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2031,
@@ -15,7 +15,9 @@
     "timeWeek": 2229,
     "timeMonth": 2675,
     "timeYear": 2031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 1
+    }
   },
   {
     "name": "Sv-Restaurant",
